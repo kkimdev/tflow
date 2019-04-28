@@ -11,6 +11,7 @@ We don't have any shortage of build systems, e.g., make, cmake, scons, bazel, ..
 
 ## Desired properties
 - Easy and intuitive configuration
+- Tup-like dependency verification?
 
 ## References
 - http://gittup.org/tup/
