@@ -16,3 +16,4 @@ We don't have any shortage of build systems, e.g., make, cmake, scons, bazel, ..
 ## References
 - http://gittup.org/tup/
 - https://github.com/apenwarr/redo
+- https://apenwarr.ca/log/20181113
