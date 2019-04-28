@@ -6,6 +6,8 @@ We don't have any shortage of build systems, e.g., make, cmake, scons, bazel, ..
 
 ## Requirements
 - Each task has 3 parts: 1. listening event(s) 2. task command(s) 3. emiting event(s)
+- Listening event should be configurable with custom scripts.
+- Task commands are exec form or sh/bash/customm shell scripts
 
 ## Desired properties
 - Easy and intuitive configuration
